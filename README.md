@@ -15,7 +15,7 @@ Uses Socket.io for real time communication and stores user details in encrypted 
 
 https://talk-a-tive.herokuapp.com/
 
-![](https://github.com/SoumyaRanjanBiswal1/ChatConnect/blob/master/screenshots/group%20%2B%20notif.PNG)
+![](https://github.com/SoumyaRanjanBiswal1/ChatConnect/screenshots/group%20%2B%20notif.PNG)
 ## Run Locally
 
 Clone the project
@@ -58,7 +58,7 @@ Start the Client
 # Features
 
 ### Authenticaton
-![](https://github.com/SoumyaRanjanBiswal1/ChatConnect/blob/master/screenshots/login.PNG)
+![](https://github.com/SoumyaRanjanBiswal1/ChatConnect/screenshots/login.PNG)
 ![](https://github.com/SoumyaRanjanBiswal1/ChatConnect/blob/master/screenshots/signup.PNG)
 ### Real Time Chatting with Typing indicators
 ![](https://github.com/SoumyaRanjanBiswal1/ChatConnect/blob/master/screenshots/real-time.PNG)
